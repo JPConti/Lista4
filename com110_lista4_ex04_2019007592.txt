@@ -1,0 +1,4 @@
+4. Qual é a estrutura de repetição mais adequada para resolver cada um dos três problemas anteriores! Por que?
+
+A melhor estrutura é: faça enquanto. Pois você quer que os comandos sejam executados pelo menos
+uma vez até que a condição de saída aconteça
